@@ -1,0 +1,32 @@
+{
+  "repo": "Tailscale-Windows-VPN-Mesh-Guide",
+  "product": "Tailscale Windows VPN Mesh",
+  "kind": "security",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-samodel-2-guide",
+  "format": "license-md-geogit-v3-web-badge-guide",
+  "tone": "guide",
+  "category": "security",
+  "topics": [
+    "tailscale-windows-vpn-mesh",
+    "tailscale-desktop",
+    "tailscale-windows",
+    "vpn-client",
+    "secure-tunnel",
+    "privacy-protection",
+    "encrypted-traffic",
+    "desktop-vpn",
+    "windows-vpn",
+    "anonymous-browsing",
+    "geo-unblock",
+    "wifi-security",
+    "online-privacy"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
